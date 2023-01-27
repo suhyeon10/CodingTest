@@ -1,10 +1,5 @@
 package Programmers;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import static Programmers.PGM_131705.Solution.temp;
-
 public class PGM_68935 {
     public static void main(String[] args) {
 
