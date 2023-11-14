@@ -12,7 +12,6 @@ public class PGM_1845 {
 
         int max = nums.length/2;
 
-
         if(max>numSet.size()) return numSet.size();
         else return max;
     }
